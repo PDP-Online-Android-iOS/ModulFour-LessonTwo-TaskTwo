@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash2Main</string>
+    <string name="the_is_splash_screen">The is Splash Screen\nKotlin</string>
+    <string name="this_is_main_activity">This is Main Activity\nKotlin</string>
+</resources>
